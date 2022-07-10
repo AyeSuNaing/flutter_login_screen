@@ -1,4 +1,3 @@
-![Screenshot_1657412769](https://user-images.githubusercontent.com/21074718/178127089-4e124832-3961-476a-a35f-5867ba1d7d7d.png)
 # dart
 
 login screen for module 1
